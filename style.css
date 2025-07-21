@@ -1,0 +1,29 @@
+html {
+  height: 100%;
+  width: 100%;
+  background-color:rgb(176, 218, 255);
+}
+
+body {
+  font-size: 18px;
+}
+
+h1 {
+  font-size: 60px;
+}
+
+h2 {
+  font-size: 32px;
+}
+
+h3 {
+  font-size: 36px;
+}
+
+li {
+  font-size: 28px;
+}
+
+p {
+  font-size: 20px;
+}
